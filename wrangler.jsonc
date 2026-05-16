@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ziwei123",
+  "compatibility_date": "2026-05-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "app"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
